@@ -1,5 +1,6 @@
 ## Usage Instructions
-Tested and built on Windows 11 with CUDA 12.9
+Built and tested on Windows 11 with CUDA 12.9
+
 Requirements:
 - CUDA compilers
 
